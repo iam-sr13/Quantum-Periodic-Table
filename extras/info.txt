@@ -1,0 +1,18 @@
+QPT is nothing but a Quantised version of the modern periodic table 
+along with it's counter part the anti-periodic table 
+(i.e a periodic table of anti-matter elements). Quantised in the sense
+that every element can be grouped in its certain orbital packet 
+(s1,s2,p1,p2...or in case of anti we have alpha1,alpha2,beta1....etc). 
+This packets are named by the orbital name which is largest in its packet. 
+Each packet comes with two versions for e.g d1 and d2. This table has
+a unique incremental pattern, which can be computer generated till infinity. 
+The idea behind this project is to recognise this hidden pattern in this
+elements of our nature and try to extract the information encrypted in this pattern.
+Some of the names like(alpha, beta orbitals) are not IUPAC and are used only to
+complete this project. 
+This project is my own idea but in the QPT pattern i have hardly recognised
+2 or 3 properties until now, and I am still trying to decrypt this hidden code of nature!
+So any one who is interested to learn about this fascinating idea of QPT
+can use this program freely and keep on updating me about some recognisable pattern
+in this version of Quantum Periodic Table!
+									-by SR.                                                              

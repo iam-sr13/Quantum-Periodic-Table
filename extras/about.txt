@@ -1,0 +1,30 @@
+This program is developed by Master Shriraj Pramod Sawant (a.k.a. SR13),
+as a part of his project of computer science for std XII.
+This program is developed using Dev-C++ 5.5.3 on Windows 8.1 platform
+and have used Window's Device Contexts(DC's) and other files like 'windows.h'
+and hence compatible only on Windows OS versions.
+
+This program is made by him not only as his project
+but also to quench his curiosity of windows programming and use the most features of Standard C++ language, which is generally not even taught at high school level. ;P
+Any one can use this program as a handy tool for chemistry under the 
+agreement with the developer.
+							-A Program by SR13.
+
+Note:- The console should be preconfigured for the Best experience with the following prerequisites:
+For Buffer size:-
+Width: 160.
+Height: 1000.
+
+For Window size:-
+Width: 160.
+Height: 50.
+
+Window position:-
+Left: 0.
+Top: 0.
+
+For Font:-
+Font: Lucida Console.
+Size: 14.
+									                                                       
+						                                                          
