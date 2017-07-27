@@ -2,6 +2,9 @@
 
 Note for the user: This is a mouse programmed console app! 
 
+![QPT]({{ site.baseurl }}/images/qpt2.jpg "QPT")
+![QPT2]({{ site.baseurl }}/images/qpt3.jpg "Example of atom information")
+
 ## What is QPT?! ##
 
 QPT is a Quantised version of the modern periodic table 
@@ -25,6 +28,8 @@ So any one who is interested to learn about this fascinating idea of QPT
 can use this program freely and keep on updating me about some recognisable pattern
 in this version of Quantum Periodic Table!
 
+![QPT3]({{ site.baseurl }}/images/qpt1.jpg "Center of QPT")
+
 ## About ##
 
 This program is developed by Master Shriraj Pramod Sawant (a.k.a. SR13),
@@ -37,9 +42,11 @@ This program is made by him not only as his project
 but also to quench his curiosity of windows programming and use the most features of Standard C++ language, which is generally not even taught at high school level. ;P
 Any one can use this program as a handy tool for chemistry under the 
 agreement with the developer.
+
 							                                                -A Program by SR13.
 
-Note 1:- The console should be preconfigured for the Best experience with the following options:
+Note 1:- 
+The console should be preconfigured for the Best experience with the following options:
 Buffer size:-
 Width: 160.
 Height: 1000.
@@ -56,5 +63,7 @@ For Font:-
 Font: Lucida Console.
 Size: 14.
 
-Note 2:- In latest windows OS versions, I have faced problems regarding mouse usage in console due to 'quick edit' and 'insert mode' of Command Prompt.
-So for that, click the Top-Left corner of cmd, and click on properties, then under Edit options disable 'quick edit' and 'insert mode'. 
+Note 2:- 
+In latest windows OS versions, I have faced problems regarding mouse usage in console due to 'quick edit' and 'insert mode' of Command Prompt.
+So for that, click the Top-Left corner of cmd, and click on properties, then under Edit options disable 'quick edit' and 'insert mode'.
+
