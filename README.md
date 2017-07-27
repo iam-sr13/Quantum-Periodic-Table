@@ -2,8 +2,8 @@
 
 Note for the user: This is a mouse programmed console app! 
 
-![an image alt text]({{ site.baseurl }}/images/qpt2.JPG "QPT")
-![an image alt text]({{ site.baseurl }}/images/qpt3.JPG "Example of atom information")
+![an image alt text](https://raw.githubusercontent.com/iam-sr13/Quantum-Periodic-Table/master/images/qpt2.JPG "QPT")
+![an image alt text](https://raw.githubusercontent.com/iam-sr13/Quantum-Periodic-Table/master/images/qpt3.JPG "Example of atom information")
 
 ## What is QPT?! ##
 
@@ -28,7 +28,7 @@ So any one who is interested to learn about this fascinating idea of QPT
 can use this program freely and keep on updating me about some recognisable pattern
 in this version of Quantum Periodic Table!
 
-![an image alt text]({{ site.baseurl }}/images/qpt1.JPG "Center of QPT")
+![an image alt text](https://raw.githubusercontent.com/iam-sr13/Quantum-Periodic-Table/master/images/qpt1.JPG "Center of QPT")
 
 ## About ##
 
