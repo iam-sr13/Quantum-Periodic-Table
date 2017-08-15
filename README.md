@@ -5,6 +5,10 @@ Note for the user: This is a mouse programmed console app!
 ![an image alt text](https://raw.githubusercontent.com/iam-sr13/Quantum-Periodic-Table/master/images/qpt2.JPG "QPT")
 ![an image alt text](https://raw.githubusercontent.com/iam-sr13/Quantum-Periodic-Table/master/images/qpt3.JPG "Example of atom information")
 
+BONUS: This is the exotic Unbinilium! Which is not even found or synthesised yet, you can visualize it and see its chemistry using my app!
+
+![an image alt text](https://github.com/iam-sr13/Quantum-Periodic-Table/blob/master/images/qpt4.JPG "Exotic Unbinilium!")
+
 ## What is QPT?! ##
 
 QPT is a Quantised version of the modern periodic table 
